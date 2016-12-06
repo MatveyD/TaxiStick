@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "taxistick-151021",
+  "private_key_id": "3ae334f7ce7a58514da34b183a276909c7fa54c2",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCs/hZLb/xC2roz\nzrkQaz7JSItcoFM8F32jkdUpxTBUN46Mp0iiw62Fk2NQ/1E/JPqdHkTNRZybq6uF\nkTEchGM9204EVvfYf4dPTVPNH1Onk7FANcUJ21/JAqn3aj02iQD5ght6vLk95UKb\nywK45UE+VnZzELzdLpVzYq4BgyWlnDIQzTQkiyLKtz4OcCpMJSFlxtbdCb1s34+O\n5JcScJwH3799NnerJjbJUvt/gMrtNZ8wVWvqswbX9rdAI21ZEw2v8NFrcbINZjKb\nLH+GBodYEri1gvLurRi2Q0XV3VztV2l6RpD2PXduWZxTBmqEmTk5bwZ6OTr9uvty\nBfecEoerAgMBAAECggEAaIdfkVWpZ/wiZwuSZ4ll9toO23lE0hqfoCaOVx7/hOPN\nDtBF45O5Ve0pJdggj7cYd7fCewaFCstAaQTCWCjmjonlKloiiH8Gk7R13ov/UFK9\n176lwL79scgaS5W2Ry2hmSI02IUQqYXOKbURgAeG1NQJ3p1OgZeUVpRZ8C/+n4Iz\nm1vm/WNP8AKek820APXLIiRA1afZyOn+6iJeF7mcTL5Y65Q0O0/JetnaiV2pqaWg\nBPrHt1yGOQQY+gCjpZHXUvDGhz1vdOJGBKy3RF3y8TN2r3DVcjwNByRJwrZho1D2\n0s9VRZ7NFSKzCzDGOKhVee4z3xeqbku9DVWmWKN1AQKBgQDXWTR/q+ASm06gawwy\nvvvSylNQcEQ7kSN2TGUjDnkHADR/mwqTPtPX42+gzfkSCas/5ZYH0fVw2dyoqPnG\n3mC3TnctsQ3KRn0onQ+WJe+GLloedFTWv4Vc6Eif2WOyLVxp6PiTc0Nhu/M2UARh\n0Z5F8TKs3hMyTMePsyLGtbQPwwKBgQDNpgQN/EYGcN22a8RRPNU9fUCdvKuMgdNs\nmeQ/nMsUUQna+IgoLP50V/Ri2A7kLjmHC6+wukcQ1jZ9EhV+7V6t2vVJK9UE7jRE\nzUY1SgZN6rAsY3jCErN6adic1riG5iGDhoH3K4xtR8K2ZNUH6gRFf3ImbWzTLVet\nyBNeHJvR+QKBgAwrxoPQuwFSNcdrRW04zhLDzKGnNrQHJ/Hvr2ej0cNLh6wOnzJj\nQqXY/N4hxgn28e7SkwAuJakTJx2BL1zGBMFXdfTnJNhh04EQH2llC3yR8hX2jTT1\n7huqJTCjoLbZSXfS6vmqcgx8Curu6tB8gG2DjFGo23zkSgMdJMIGUv7xAoGAYa7M\nGkCMmp6eEfqao+P7fluyh7qI2hMI9Hsc+kJmDF56CfMn6b2FmIn24cSzPhve45Df\ngVjaTNsTwtEGOOZTpM1u2bTiWJc1aMEA6mshF3209UDCqZzsd+czJzyvJhTGMo1/\nyoJ7D6WYjb7TmhDEuqZQ+IPdv2m4TinNWVTJhzECgYAWv3RaZjxfrXEl8WayubsS\nBQfT5vypzx5eHjaEs6Z2flt/g+fLJ7h9JaUe4n9lg4ElM0+I18IVAQ9iyqi9V+Mt\n8vta7ybLPZ2EzpsfG5Bm9fyZ8+q8cWL5s9Dp0uBUv43XwkRjUAaFuD5ktu27po+o\nx5xRFqW6Otuv2A5Iy5GdIg==\n-----END PRIVATE KEY-----\n",
+  "client_email": "taxistick-151021@appspot.gserviceaccount.com",
+  "client_id": "107572332995442193881",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/taxistick-151021%40appspot.gserviceaccount.com"
+}
