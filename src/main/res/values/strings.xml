@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">TaxiStick</string>
+    <string name="title_activity_map">Map</string>
+    <string name="str_tv_distance_time">Distance</string>
+    <string name="hello_world">Tap two locations in the map</string>
+    <string name="title_activity_main">MainActivity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Favorites</string>
+    <string name="history">history</string>
+    <string name="base">base</string>
+</resources>
